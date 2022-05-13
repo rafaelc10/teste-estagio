@@ -44,7 +44,7 @@ O Seletor NTH seleciona determinado elemento dentro de uma lista, especificando 
 Os Seletores Before/After serve para criar um novo elemento antes (before) ou after (depois) do elemento que eu selecionar.
 
 ## Projeto prático
-### Projeto disponível na pasta <b>projeto prático</b><br>
+### Projeto disponível no repositório
 O candidato deve criar a página da imagem a seguir:
 ![Layout](https://i.ibb.co/Bydq2FZ/screencapture-spotify-br-2022-05-10-15-13-17.png)
 
